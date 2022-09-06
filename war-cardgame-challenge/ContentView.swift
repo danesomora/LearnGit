@@ -13,6 +13,7 @@ struct ContentView: View {
         VStack {
             
             Text("Donate")
+            Image("car")
         }
         
         ZStack {
